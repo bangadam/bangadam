@@ -11,7 +11,7 @@
 
 ### Personal Stuff
 - 🔭 I’m currently open for Oppoturnity;
-- 👨🏼‍💻 **Open for Freelance Project** build website / 
+- 👨🏼‍💻 **Open for Freelance Project** build website / API
 - 📝 I regulary write articles on [http://bangadam-dev.medium.com](Medium)
 - 📫 How to reach me: [http://linkedin.com/in/bangadam/](Linkedin) or email me at **bangadam.dev@gmail.com**  ;
 
