@@ -24,5 +24,5 @@
 
 <p align="center">
     <a href="https://linkedin.com/in/bangadam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naufaldi" height="30" width="30" /></a>
-    <a href="https://medium.com/@bangadam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
+    <a href="https://medium.com/@bangadam-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pbteja1998" height="30" width="30" /></a>    
 </p>
