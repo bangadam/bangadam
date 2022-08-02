@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Meganata Adam</h1>
-<h3 align="center">A Full Stack Developer and A Writer on medium</h3>
+<h3 align="center">A Fullstack Developer and A Writer on medium</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bangadam" alt="bangadam" /> </p>
 
