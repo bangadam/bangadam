@@ -16,9 +16,6 @@ I always look forward to exceeding expectations and I am effective both working 
 I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
 If you ever want to bounce ideas off of me or even just have a chat about my favorite anime, please feel free to reach out. 😄
 
-## ⚡ Stats
-![Chetanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bangadam&hide=["issues"]&show_icons=true)
-
 ##  🎉 Skills  🎉
 - **FrontEnd**: Vue, Vuex, Tailwind
 - **BackEnd**: Go, PHP, Laravel
