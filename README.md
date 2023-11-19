@@ -1,6 +1,6 @@
 # Hi, I'm [Muhammad Adam](https://bangadam.github.io)! 👋
 
->  💻 Full-stack Software Engineer
+>  💻 Full-stack Web Developer
 
 [![Linkedin: Muhammad Adam](https://img.shields.io/badge/-Muhammad%20Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bangadam/)](https://www.linkedin.com/in/bangadam/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bangadam)
