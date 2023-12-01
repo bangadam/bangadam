@@ -6,6 +6,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bangadam)
 [![GitHub: @bangadam](https://img.shields.io/github/followers/bangadam?label=follow&style=social)](https://github.com/bangadam)
 [![Gmail: bangadam.dev](https://img.shields.io/badge/Gmail-bangadam.dev-red)](mailto:bangadam.dev@gmail.com)
+![](https://komarev.com/ghpvc/?username=bangadam)
 
 ---
 
