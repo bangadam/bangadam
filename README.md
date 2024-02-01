@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Adam](https://bangadam.github.io)! 👋
+# Hi, I'm [Muhammad Adam](https://bangadam.space)! 👋
 
 >  💻 Full-stack Web Developer
 
