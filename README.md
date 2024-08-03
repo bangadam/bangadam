@@ -1,6 +1,6 @@
 # Hi, I'm [Muhammad Adam](https://bangadam.space)! 👋
 
->  💻 Full-stack Web Developer
+>  💻 Fullstack Web Developer from Indonesia
 
 [![Linkedin: Muhammad Adam](https://img.shields.io/badge/-Muhammad%20Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bangadam/)](https://www.linkedin.com/in/bangadam/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bangadam-dev)
@@ -10,7 +10,7 @@
 
 ---
 
-I have over 5 years of experience working as a software engineer.
+I have over 5 years of experience working as a Fullstack Web Developer.
 My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
 I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
 
