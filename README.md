@@ -77,8 +77,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/languages.svg)
 
-<!--START_SECTION:activity-->
-
 <details open>
  <h2 align="left">📝 Recent Medium Articles</h2>
   <br>
@@ -89,3 +87,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2" alt="Recent Article 2"></a>
   <br>
 </details>
+
+### :dart: My Wakatime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
