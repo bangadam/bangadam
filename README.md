@@ -78,6 +78,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/languages.svg)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/bangadam/bangadam/pull/1) in [bangadam/bangadam](https://github.com/bangadam/bangadam)
+2. 💪 Opened PR [#1](https://github.com/bangadam/bangadam/pull/1) in [bangadam/bangadam](https://github.com/bangadam/bangadam)
+3. 🚀 Published release [1.0.0](https://github.com/bangadam/rust-compression/releases/tag/1.0.0) in [bangadam/rust-compression](https://github.com/bangadam/rust-compression)
+<!--END_SECTION:activity-->
 
 <details open>
  <h2 align="left">📝 Recent Medium Articles</h2>
