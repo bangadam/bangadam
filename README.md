@@ -2,7 +2,6 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm Muhammad Meganata Adam</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia 🇮🇩</h3>
 
-<!-- connect with me -->
 <h2 align="left">📫 Connect with me</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/bangadam/" target="blank">
