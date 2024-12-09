@@ -77,6 +77,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/languages.svg)
 
+<!--START_SECTION:activity-->
+
 <details open>
  <h2 align="left">📝 Recent Medium Articles</h2>
   <br>
