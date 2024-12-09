@@ -1,25 +1,90 @@
-# Hi, I'm [Muhammad Adam](https://bangadam.space)! 👋
+<h1 align="center">Hi <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />, I'm Muhammad Meganata Adam</h1>
+<h3 align="center">A passionate Software Engineer from Indonesia 🇮🇩</h3>
 
->  💻 Fullstack Web Developer from Indonesia
+<!-- connect with me -->
+<h2 align="left">📫 Connect with me</h2>
+<p align="left">
+    <a href="https://www.linkedin.com/in/bangadam/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-Muhammad%20Adam-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Muhammad Adam" />
+    </a>
+    <a href="https://medium.com/@bangadam-dev" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="mailto:bangadam.dev@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-bangadam.dev-red" alt="Gmail" />
+    </a>
+</p>
 
-[![Linkedin: Muhammad Adam](https://img.shields.io/badge/-Muhammad%20Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bangadam/)](https://www.linkedin.com/in/bangadam/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bangadam-dev)
-[![GitHub: @bangadam](https://img.shields.io/github/followers/bangadam?label=follow&style=social)](https://github.com/bangadam)
-[![Gmail: bangadam.dev](https://img.shields.io/badge/Gmail-bangadam.dev-red)](mailto:bangadam.dev@gmail.com)
-![](https://komarev.com/ghpvc/?username=bangadam)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://golang.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.rust-lang.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://grpc.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="grpc" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </a>
+    <a href="https://www.apache.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
+    </a>
+    <a href="https://kafka.apache.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+    </a>
+</p>
 
----
+<h2 align="left">📊 Github Stats</h2>
 
-I have over 5 years of experience working as a Fullstack Web Developer.
-My passion lies in solving challenging problems, designing systems, and communicating complex ideas to non-technical stakeholders.
-I always look forward to exceeding expectations and I am effective both working as an individual and as part of a team.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bangadam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-I enjoy trying out emerging technologies and connecting with people across a wide range of backgrounds. 
-If you ever want to bounce ideas off of me or even just have a chat about my favorite anime, please feel free to reach out. 😄
+![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/languages.svg)
 
-##  🎉 Skills  🎉
-- **FrontEnd**: Vue, Vuex, Tailwind
-- **BackEnd**: Go, PHP, Laravel
-- **Database**: PostgreSQL, Mysql, MongoDB
-- **CI/CD**: CircleCI, GitHub Actions
-- **DevOps**: Docker, Nginx, Apache
+<details open>
+ <h2 align="left">📝 Recent Medium Articles</h2>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/0" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/1" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2" alt="Recent Article 2"></a>
+  <br>
+</details>
