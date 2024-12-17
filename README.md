@@ -94,14 +94,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [drew18moore/realtime-chat](https://github.com/drew18moore/realtime-chat)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
+1. ⭐ Starred [arnu515/supabase-e2ee-chat](https://github.com/arnu515/supabase-e2ee-chat)<br>
+2. ⭐ Starred [drew18moore/realtime-chat](https://github.com/drew18moore/realtime-chat)<br>
 3. ⬆️ Pushed 1 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
 4. ⬆️ Pushed 1 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
 5. ⬆️ Pushed 1 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 17th, 2024, 2:02:37 PM
+Last Updated: Tuesday, December 17th, 2024, 2:35:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
