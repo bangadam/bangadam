@@ -78,7 +78,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bangadam&layout=compact&theme=nord)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bangadam&color=#6495ed&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=bangadam)
 
 <details open>
  <h2 align="left">📝 Recent Medium Articles</h2>
