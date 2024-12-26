@@ -72,10 +72,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <h2 align="left">📊 Github Stats</h2>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bangadam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bangadam&show_icons=true&theme=nord)
 
-![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/bangadam/github-stats-transparent/output/generated/languages.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bangadam&theme=nord)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bangadam&layout=compact&theme=nord)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bangadam&color=#6495ed&style=for-the-badge)
 
 <details open>
  <h2 align="left">📝 Recent Medium Articles</h2>
@@ -87,13 +90,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2" alt="Recent Article 2"></a>
   <br>
 
-<h2 align="left">📊 My Wakatime stats</h2>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 📔 Created new repository [bangadam/typescript-trello-clone-backend](https://github.com/bangadam/typescript-trello-clone-backend)<br>
 2. ⬆️ Pushed 1 commit(s) to [bangadam/learn-typescript-trello-clone](https://github.com/bangadam/learn-typescript-trello-clone)<br>
 3. ⬆️ Pushed 2 commit(s) to [bangadam/learn-typescript-trello-clone](https://github.com/bangadam/learn-typescript-trello-clone)<br>
@@ -102,6 +102,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Thursday, December 12th, 2024, 2:56:05 AM
+
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
