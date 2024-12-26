@@ -93,17 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-
-1. ⭐ Starred [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/express-ts-clean-arch](https://github.com/bangadam/express-ts-clean-arch)<br>
-3. ⭐ Starred [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots)<br>
-4. ⭐ Starred [scrapinghub/portia](https://github.com/scrapinghub/portia)<br>
-5. ⭐ Starred [leoMirandaa/portfolio](https://github.com/leoMirandaa/portfolio)<br>
+1. ⬆️ Pushed 1 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
+2. ⬆️ Pushed 3 commit(s) to [bangadam/bangadam](https://github.com/bangadam/bangadam)<br>
+3. ⭐ Starred [IonicaBizau/scrape-it](https://github.com/IonicaBizau/scrape-it)<br>
+4. ⬆️ Pushed 1 commit(s) to [bangadam/express-ts-clean-arch](https://github.com/bangadam/express-ts-clean-arch)<br>
+5. ⭐ Starred [JStumpp/awesome-chatbots](https://github.com/JStumpp/awesome-chatbots)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-
-Last Updated: Thursday, December 26th, 2024, 8:03:12 AM
-
+Last Updated: Thursday, December 26th, 2024, 8:35:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
