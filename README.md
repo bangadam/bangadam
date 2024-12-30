@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leomorpho/goship](https://github.com/leomorpho/goship)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
+1. ⭐ Starred [kinggslayer/Selenium-Web-Scraping-from-Google-Maps](https://github.com/kinggslayer/Selenium-Web-Scraping-from-Google-Maps)<br>
+2. ⭐ Starred [leomorpho/goship](https://github.com/leomorpho/goship)<br>
 3. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
 4. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
 5. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 29th, 2024, 11:32:04 PM
+Last Updated: Monday, December 30th, 2024, 12:10:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
