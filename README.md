@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
-3. ⭐ Starred [kinggslayer/Selenium-Web-Scraping-from-Google-Maps](https://github.com/kinggslayer/Selenium-Web-Scraping-from-Google-Maps)<br>
-4. ⭐ Starred [leomorpho/goship](https://github.com/leomorpho/goship)<br>
+1. ⬆️ Pushed 1 commit(s) to [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+2. 📔 Created new repository [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+3. 📔 Created new repository [bangadam/shopify-product-scraping](https://github.com/bangadam/shopify-product-scraping)<br>
+4. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
 5. ⬆️ Pushed 1 commit(s) to [bangadam/daily-scrape-pennsylvanian-headlines](https://github.com/bangadam/daily-scrape-pennsylvanian-headlines)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 1st, 2025, 3:02:20 PM
+Last Updated: Wednesday, January 1st, 2025, 3:32:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
