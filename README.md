@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
-2. 📔 Created new repository [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
-3. 📔 Created new repository [bangadam/shopify-product-scraping](https://github.com/bangadam/shopify-product-scraping)<br>
-4. ⭐ Starred [kinggslayer/Selenium-Web-Scraping-from-Google-Maps](https://github.com/kinggslayer/Selenium-Web-Scraping-from-Google-Maps)<br>
-5. ⭐ Starred [leomorpho/goship](https://github.com/leomorpho/goship)<br>
+1. ⭐ Starred [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)<br>
+2. ⬆️ Pushed 1 commit(s) to [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+3. 📔 Created new repository [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+4. 📔 Created new repository [bangadam/shopify-product-scraping](https://github.com/bangadam/shopify-product-scraping)<br>
+5. ⭐ Starred [kinggslayer/Selenium-Web-Scraping-from-Google-Maps](https://github.com/kinggslayer/Selenium-Web-Scraping-from-Google-Maps)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 14th, 2025, 10:34:42 AM
+Last Updated: Tuesday, January 14th, 2025, 11:02:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
