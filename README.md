@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
-3. 📔 Created new repository [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
-4. 📔 Created new repository [bangadam/shopify-product-scraping](https://github.com/bangadam/shopify-product-scraping)<br>
-5. ⭐ Starred [kinggslayer/Selenium-Web-Scraping-from-Google-Maps](https://github.com/kinggslayer/Selenium-Web-Scraping-from-Google-Maps)<br>
+1. ⭐ Starred [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations)<br>
+2. ⭐ Starred [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)<br>
+3. ⬆️ Pushed 1 commit(s) to [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+4. 📔 Created new repository [bangadam/scraper-shopify](https://github.com/bangadam/scraper-shopify)<br>
+5. 📔 Created new repository [bangadam/shopify-product-scraping](https://github.com/bangadam/shopify-product-scraping)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 21st, 2025, 3:33:09 AM
+Last Updated: Tuesday, January 21st, 2025, 4:02:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
