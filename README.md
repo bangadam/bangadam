@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [bangadam/system-design-url-shortening](https://github.com/bangadam/system-design-url-shortening)<br>
-2. ⭐ Starred [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)<br>
-3. 📔 Created new repository [bangadam/fullstack-todo](https://github.com/bangadam/fullstack-todo)<br>
-4. ⬆️ Pushed 1 commit(s) to [bangadam/ts-todo-localstorage](https://github.com/bangadam/ts-todo-localstorage)<br>
-5. 📔 Created new repository [bangadam/ts-todo-localstorage](https://github.com/bangadam/ts-todo-localstorage)<br>
+1. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+2. 📔 Created new repository [bangadam/system-design-url-shortening](https://github.com/bangadam/system-design-url-shortening)<br>
+3. ⭐ Starred [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)<br>
+4. 📔 Created new repository [bangadam/fullstack-todo](https://github.com/bangadam/fullstack-todo)<br>
+5. ⬆️ Pushed 1 commit(s) to [bangadam/ts-todo-localstorage](https://github.com/bangadam/ts-todo-localstorage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 14th, 2025, 5:33:34 AM
+Last Updated: Friday, February 14th, 2025, 6:03:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
