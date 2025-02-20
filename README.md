@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
-2. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-3. 📔 Created new repository [bangadam/system-design-url-shortening](https://github.com/bangadam/system-design-url-shortening)<br>
-4. ⭐ Starred [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)<br>
-5. 📔 Created new repository [bangadam/fullstack-todo](https://github.com/bangadam/fullstack-todo)<br>
+1. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
+2. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
+3. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+4. 📔 Created new repository [bangadam/system-design-url-shortening](https://github.com/bangadam/system-design-url-shortening)<br>
+5. ⭐ Starred [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 20th, 2025, 10:33:51 PM
+Last Updated: Thursday, February 20th, 2025, 11:02:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
