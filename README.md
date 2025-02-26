@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
-2. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
-3. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
-4. 📔 Created new repository [bangadam/system-design-url-shortening](https://github.com/bangadam/system-design-url-shortening)<br>
-5. ⭐ Starred [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules)<br>
+1. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
+2. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+3. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
+4. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
+5. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 3:34:35 PM
+Last Updated: Wednesday, February 26th, 2025, 4:03:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
