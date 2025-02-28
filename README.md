@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
-2. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
-3. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
-4. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
-5. ⭐ Starred [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help)<br>
+1. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
+2. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
+3. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+4. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
+5. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 28th, 2025, 6:37:03 PM
+Last Updated: Friday, February 28th, 2025, 7:02:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
