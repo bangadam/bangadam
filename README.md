@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
-2. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
-3. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
-4. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
-5. ⭐ Starred [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free)<br>
+1. ⭐ Starred [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)<br>
+2. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
+3. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
+4. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+5. ⭐ Starred [WilsonNet/japanase-youtube-channels-with-japanese-subtitles](https://github.com/WilsonNet/japanase-youtube-channels-with-japanese-subtitles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 1st, 2025, 2:33:11 PM
+Last Updated: Saturday, March 1st, 2025, 3:02:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
