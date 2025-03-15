@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bangadam/sholat-reminder](https://github.com/bangadam/sholat-reminder) from [adityaputra11/sholat-reminder](https://github.com/adityaputra11/sholat-reminder)<br>
-2. ⭐ Starred [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)<br>
-3. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
-4. ⭐ Starred [armankhondker/best-system-design-resources](https://github.com/armankhondker/best-system-design-resources)<br>
-5. ⭐ Starred [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)<br>
+1. ⭐ Starred [kingparks/coding](https://github.com/kingparks/coding)<br>
+2. ⭐ Starred [jayleehappy/windsurf-vip-free](https://github.com/jayleehappy/windsurf-vip-free)<br>
+3. 🔱 Forked [bangadam/sholat-reminder](https://github.com/bangadam/sholat-reminder) from [adityaputra11/sholat-reminder](https://github.com/adityaputra11/sholat-reminder)<br>
+4. ⭐ Starred [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese)<br>
+5. ⭐ Starred [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 15th, 2025, 2:11:44 PM
+Last Updated: Saturday, March 15th, 2025, 2:36:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
