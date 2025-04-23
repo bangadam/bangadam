@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free)<br>
-2. ⬆️ Pushed 1 commit(s) to [bangadam/ellty-test-assigment](https://github.com/bangadam/ellty-test-assigment)<br>
+1. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
+2. ⭐ Starred [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free)<br>
 3. ⬆️ Pushed 1 commit(s) to [bangadam/ellty-test-assigment](https://github.com/bangadam/ellty-test-assigment)<br>
 4. ⬆️ Pushed 1 commit(s) to [bangadam/ellty-test-assigment](https://github.com/bangadam/ellty-test-assigment)<br>
-5. 📔 Created new repository [bangadam/ellty-test-assigment](https://github.com/bangadam/ellty-test-assigment)<br>
+5. ⬆️ Pushed 1 commit(s) to [bangadam/ellty-test-assigment](https://github.com/bangadam/ellty-test-assigment)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 23rd, 2025, 10:40:08 PM
+Last Updated: Wednesday, April 23rd, 2025, 11:12:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
