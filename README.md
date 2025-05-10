@@ -93,11 +93,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
-2. ⭐ Starred [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free)<br>
+1. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)<br>
+2. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
+3. ⭐ Starred [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 1:02:15 AM
+Last Updated: Saturday, May 10th, 2025, 2:46:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
