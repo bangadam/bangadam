@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)<br>
-2. ⭐ Starred [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor)<br>
-3. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)<br>
-4. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
-5. ⭐ Starred [ruwiss/ai-auto-free](https://github.com/ruwiss/ai-auto-free)<br>
+1. ⭐ Starred [endmr11/routing_app](https://github.com/endmr11/routing_app)<br>
+2. ⭐ Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)<br>
+3. ⭐ Starred [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor)<br>
+4. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)<br>
+5. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 15th, 2025, 7:34:24 PM
+Last Updated: Thursday, May 15th, 2025, 8:14:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
