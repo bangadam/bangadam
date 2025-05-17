@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [endmr11/routing_app](https://github.com/endmr11/routing_app)<br>
-2. ⭐ Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)<br>
-3. ⭐ Starred [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor)<br>
-4. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)<br>
-5. ⭐ Starred [oslook/cursor-ai-downloads](https://github.com/oslook/cursor-ai-downloads)<br>
+1. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
+2. ⭐ Starred [endmr11/routing_app](https://github.com/endmr11/routing_app)<br>
+3. ⭐ Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)<br>
+4. ⭐ Starred [Angels-Ray/fake-cursor](https://github.com/Angels-Ray/fake-cursor)<br>
+5. ⭐ Starred [go-jet/jet](https://github.com/go-jet/jet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 17th, 2025, 1:39:48 PM
+Last Updated: Saturday, May 17th, 2025, 2:11:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
