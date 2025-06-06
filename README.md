@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)<br>
-2. ⭐ Starred [DIFFfeng/Cursor-free-student](https://github.com/DIFFfeng/Cursor-free-student)<br>
-3. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
-4. ⭐ Starred [endmr11/routing_app](https://github.com/endmr11/routing_app)<br>
-5. ⭐ Starred [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)<br>
+1. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
+2. ⭐ Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)<br>
+3. ⭐ Starred [DIFFfeng/Cursor-free-student](https://github.com/DIFFfeng/Cursor-free-student)<br>
+4. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
+5. ⭐ Starred [endmr11/routing_app](https://github.com/endmr11/routing_app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 6th, 2025, 1:46:23 PM
+Last Updated: Friday, June 6th, 2025, 2:13:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
