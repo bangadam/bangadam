@@ -97,10 +97,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 2. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
 3. ⭐ Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)<br>
 4. ⭐ Starred [DIFFfeng/Cursor-free-student](https://github.com/DIFFfeng/Cursor-free-student)<br>
-5. ⭐ Starred [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 1:07:09 AM
+Last Updated: Tuesday, June 17th, 2025, 3:00:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
