@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bangadam/dispoflare](https://github.com/bangadam/dispoflare) from [LeoColomb/dispoflare](https://github.com/LeoColomb/dispoflare)<br>
-2. ⭐ Starred [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate)<br>
-3. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
-4. ⭐ Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)<br>
-5. ⭐ Starred [DIFFfeng/Cursor-free-student](https://github.com/DIFFfeng/Cursor-free-student)<br>
+1. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
+2. 🔱 Forked [bangadam/dispoflare](https://github.com/bangadam/dispoflare) from [LeoColomb/dispoflare](https://github.com/LeoColomb/dispoflare)<br>
+3. ⭐ Starred [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate)<br>
+4. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
+5. ⭐ Starred [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 18th, 2025, 6:18:55 PM
+Last Updated: Wednesday, June 18th, 2025, 6:48:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
