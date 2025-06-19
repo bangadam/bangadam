@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
-2. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
-3. 🔱 Forked [bangadam/dispoflare](https://github.com/bangadam/dispoflare) from [LeoColomb/dispoflare](https://github.com/LeoColomb/dispoflare)<br>
-4. ⭐ Starred [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate)<br>
-5. ⭐ Starred [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)<br>
+1. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
+2. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
+3. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
+4. 🔱 Forked [bangadam/dispoflare](https://github.com/bangadam/dispoflare) from [LeoColomb/dispoflare](https://github.com/LeoColomb/dispoflare)<br>
+5. ⭐ Starred [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 19th, 2025, 7:13:32 AM
+Last Updated: Thursday, June 19th, 2025, 7:37:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
