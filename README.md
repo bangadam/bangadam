@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
-2. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
-3. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
-4. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
-5. 🔱 Forked [bangadam/dispoflare](https://github.com/bangadam/dispoflare) from [LeoColomb/dispoflare](https://github.com/LeoColomb/dispoflare)<br>
+1. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
+2. ⭐ Starred [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
+3. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
+4. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
+5. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 21st, 2025, 6:43:42 PM
+Last Updated: Saturday, June 21st, 2025, 7:09:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
