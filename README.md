@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
-2. ⭐ Starred [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
-3. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
-4. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
-5. ⭐ Starred [yunzhong-code/cursor-star](https://github.com/yunzhong-code/cursor-star)<br>
+1. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+2. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
+3. ⭐ Starred [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
+4. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
+5. ⭐ Starred [Cloxl/CursorPool_Client](https://github.com/Cloxl/CursorPool_Client)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 26th, 2025, 3:14:45 PM
+Last Updated: Thursday, June 26th, 2025, 3:40:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
