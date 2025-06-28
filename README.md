@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)<br>
-2. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
-3. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
-4. ⭐ Starred [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
-5. ⭐ Starred [maticarmy/free_cursor_pro](https://github.com/maticarmy/free_cursor_pro)<br>
+1. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
+2. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+3. ⭐ Starred [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)<br>
+4. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+5. ⭐ Starred [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 28th, 2025, 1:05:34 AM
+Last Updated: Saturday, June 28th, 2025, 2:55:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
