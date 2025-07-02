@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)<br>
-2. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
-3. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
-4. ⭐ Starred [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)<br>
-5. ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+1. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
+2. ⭐ Starred [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)<br>
+3. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
+4. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+5. ⭐ Starred [NomenAK/SuperClaude](https://github.com/NomenAK/SuperClaude)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 2nd, 2025, 12:27:46 PM
+Last Updated: Wednesday, July 2nd, 2025, 1:08:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
