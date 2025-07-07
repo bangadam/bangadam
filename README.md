@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
-2. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
-3. ⭐ Starred [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)<br>
-4. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
-5. ⭐ Starred [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+1. ⭐ Starred [getAsterisk/claudia](https://github.com/getAsterisk/claudia)<br>
+2. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+3. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
+4. ⭐ Starred [TechNomadCode/AI-Product-Development-Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)<br>
+5. ⭐ Starred [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 7th, 2025, 1:12:28 AM
+Last Updated: Monday, July 7th, 2025, 3:09:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
