@@ -97,10 +97,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 2. ⭐ Starred [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)<br>
 3. ⭐ Starred [getAsterisk/claudia](https://github.com/getAsterisk/claudia)<br>
 4. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
-5. ⭐ Starred [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 1st, 2025, 5:53:30 AM
+Last Updated: Friday, August 1st, 2025, 6:24:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
