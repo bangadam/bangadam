@@ -93,13 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)<br>
-2. ⭐ Starred [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free)<br>
-3. 💬 Commented on [#141](https://github.com/agentcodee/cursor-free-everyday/issues/141#issuecomment-3136472371) in [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
-4. ⭐ Starred [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)<br>
+1. ⭐ Starred [yuaotian/go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner)<br>
+2. ⭐ Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)<br>
+3. ⭐ Starred [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free)<br>
+4. 💬 Commented on [#141](https://github.com/agentcodee/cursor-free-everyday/issues/141#issuecomment-3136472371) in [agentcodee/cursor-free-everyday](https://github.com/agentcodee/cursor-free-everyday)<br>
+5. ⭐ Starred [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 6th, 2025, 5:45:06 PM
+Last Updated: Wednesday, August 6th, 2025, 6:21:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
