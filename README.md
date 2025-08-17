@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)<br>
-2. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
-3. ⭐ Starred [yuaotian/go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner)<br>
-4. ⭐ Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)<br>
-5. ⭐ Starred [BasicProtein/AugmentCode-Free](https://github.com/BasicProtein/AugmentCode-Free)<br>
+1. ⭐ Starred [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)<br>
+2. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)<br>
+3. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
+4. ⭐ Starred [yuaotian/go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner)<br>
+5. ⭐ Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 17th, 2025, 4:15:23 PM
+Last Updated: Sunday, August 17th, 2025, 4:44:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
