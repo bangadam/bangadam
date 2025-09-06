@@ -97,10 +97,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 2. ⭐ Starred [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)<br>
 3. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)<br>
 4. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
-5. ⭐ Starred [yuaotian/go-augment-cleaner](https://github.com/yuaotian/go-augment-cleaner)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 6th, 2025, 12:58:54 AM
+Last Updated: Saturday, September 6th, 2025, 2:18:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
