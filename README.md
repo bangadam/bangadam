@@ -96,10 +96,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 1. ⭐ Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)<br>
 2. ⭐ Starred [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)<br>
 3. ⭐ Starred [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering)<br>
-4. ⭐ Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 8th, 2025, 1:03:43 AM
+Last Updated: Monday, September 8th, 2025, 2:48:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
