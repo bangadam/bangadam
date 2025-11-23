@@ -93,9 +93,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 22nd, 2025, 11:36:16 PM
+Last Updated: Sunday, November 23rd, 2025, 1:14:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
