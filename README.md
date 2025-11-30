@@ -93,10 +93,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
+2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 1:13:46 AM
+Last Updated: Sunday, November 30th, 2025, 3:09:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
