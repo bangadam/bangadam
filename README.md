@@ -93,11 +93,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
-2. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [lynx-family/lynx](https://github.com/lynx-family/lynx)<br>
+2. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
+3. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
+4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 14th, 2025, 1:03:49 PM
+Last Updated: Sunday, December 14th, 2025, 1:41:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
