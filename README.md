@@ -93,13 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lynx-family/lynx](https://github.com/lynx-family/lynx)<br>
-2. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
-3. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
-4. ⭐ Starred [github/spec-kit](https://github.com/github/spec-kit)<br>
+1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+2. ⭐ Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)<br>
+3. ⭐ Starred [lynx-family/lynx](https://github.com/lynx-family/lynx)<br>
+4. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
+5. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 16th, 2025, 1:33:53 PM
+Last Updated: Tuesday, December 16th, 2025, 2:17:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
