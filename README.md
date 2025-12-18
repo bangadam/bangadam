@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
-2. ⭐ Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)<br>
-3. ⭐ Starred [lynx-family/lynx](https://github.com/lynx-family/lynx)<br>
-4. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
-5. ⭐ Starred [jeremylongshore/claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus)<br>
+1. ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers)<br>
+2. ⭐ Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)<br>
+3. ⭐ Starred [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth)<br>
+4. ⭐ Starred [lynx-family/lynx](https://github.com/lynx-family/lynx)<br>
+5. ⭐ Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 18th, 2025, 6:53:10 AM
+Last Updated: Thursday, December 18th, 2025, 7:17:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
