@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-2. ⭐ Starred [yoursandeshshrestha/gemini-vibe-code](https://github.com/yoursandeshshrestha/gemini-vibe-code)<br>
-3. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
-4. ⭐ Starred [yusriltakeuchi/flutter_template](https://github.com/yusriltakeuchi/flutter_template)<br>
-5. ⭐ Starred [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude)<br>
+1. ⭐ Starred [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy)<br>
+2. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
+3. ⭐ Starred [yoursandeshshrestha/gemini-vibe-code](https://github.com/yoursandeshshrestha/gemini-vibe-code)<br>
+4. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
+5. ⭐ Starred [yusriltakeuchi/flutter_template](https://github.com/yusriltakeuchi/flutter_template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 31st, 2025, 7:42:00 AM
+Last Updated: Wednesday, December 31st, 2025, 8:20:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
