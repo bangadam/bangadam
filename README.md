@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
-2. ⭐ Starred [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy)<br>
-3. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
-4. ⭐ Starred [yoursandeshshrestha/gemini-vibe-code](https://github.com/yoursandeshshrestha/gemini-vibe-code)<br>
-5. ⭐ Starred [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)<br>
+1. ⭐ Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)<br>
+2. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
+3. ⭐ Starred [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy)<br>
+4. ⭐ Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)<br>
+5. ⭐ Starred [yoursandeshshrestha/gemini-vibe-code](https://github.com/yoursandeshshrestha/gemini-vibe-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 10:44:34 AM
+Last Updated: Thursday, January 1st, 2026, 11:12:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
