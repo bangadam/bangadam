@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
-2. ⭐ Starred [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)<br>
-3. ⭐ Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)<br>
-4. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
-5. ⭐ Starred [badri-s2001/antigravity-claude-proxy](https://github.com/badri-s2001/antigravity-claude-proxy)<br>
+1. ⭐ Starred [steveyegge/beads](https://github.com/steveyegge/beads)<br>
+2. ⭐ Starred [wshobson/agents](https://github.com/wshobson/agents)<br>
+3. ⭐ Starred [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio)<br>
+4. ⭐ Starred [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)<br>
+5. ⭐ Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 4th, 2026, 6:22:20 AM
+Last Updated: Sunday, January 4th, 2026, 6:52:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
