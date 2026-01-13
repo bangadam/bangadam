@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dyad-sh/dyad](https://github.com/dyad-sh/dyad)<br>
-2. ⭐ Starred [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)<br>
-3. ⭐ Starred [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)<br>
-4. ⭐ Starred [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel)<br>
-5. ⭐ Starred [RayFernando1337/llm-cursor-rules](https://github.com/RayFernando1337/llm-cursor-rules)<br>
+1. ⭐ Starred [ThanhNguyxn/SheerID-Verification-Tool](https://github.com/ThanhNguyxn/SheerID-Verification-Tool)<br>
+2. ⭐ Starred [dyad-sh/dyad](https://github.com/dyad-sh/dyad)<br>
+3. ⭐ Starred [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)<br>
+4. ⭐ Starred [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)<br>
+5. ⭐ Starred [Action-State-Labs/android-action-kernel](https://github.com/Action-State-Labs/android-action-kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 13th, 2026, 2:19:19 PM
+Last Updated: Tuesday, January 13th, 2026, 2:50:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
