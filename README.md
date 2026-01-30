@@ -95,12 +95,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)<br>
 2. ⭐ Starred [VoltAgent/awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)<br>
-3. ⭐ Starred [moltbot/moltbot](https://github.com/moltbot/moltbot)<br>
+3. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
 4. ⭐ Starred [alekspetrov/navigator](https://github.com/alekspetrov/navigator)<br>
 5. ⭐ Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 30th, 2026, 3:38:57 AM
+Last Updated: Friday, January 30th, 2026, 5:04:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
