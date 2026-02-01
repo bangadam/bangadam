@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)<br>
-2. ⭐ Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)<br>
-3. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
-4. ⭐ Starred [alekspetrov/navigator](https://github.com/alekspetrov/navigator)<br>
-5. ⭐ Starred [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources)<br>
+1. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
+2. ⭐ Starred [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)<br>
+3. ⭐ Starred [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)<br>
+4. ⭐ Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)<br>
+5. ⭐ Starred [alekspetrov/navigator](https://github.com/alekspetrov/navigator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 1st, 2026, 12:33:36 PM
+Last Updated: Sunday, February 1st, 2026, 1:38:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
