@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
-2. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
-3. ⭐ Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br>
-4. ⭐ Starred [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control)<br>
-5. ⭐ Starred [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)<br>
+1. ⭐ Starred [mikeyobrien/rho](https://github.com/mikeyobrien/rho)<br>
+2. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
+3. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
+4. ⭐ Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br>
+5. ⭐ Starred [manish-raana/openclaw-mission-control](https://github.com/manish-raana/openclaw-mission-control)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 6th, 2026, 12:42:01 PM
+Last Updated: Friday, February 6th, 2026, 1:57:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
