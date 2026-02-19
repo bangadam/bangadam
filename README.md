@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
-2. ⭐ Starred [mikeyobrien/rho](https://github.com/mikeyobrien/rho)<br>
-3. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
-4. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
-5. ⭐ Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)<br>
+1. ⭐ Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+2. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+3. ⭐ Starred [mikeyobrien/rho](https://github.com/mikeyobrien/rho)<br>
+4. ⭐ Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)<br>
+5. ⭐ Starred [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 19th, 2026, 2:04:50 PM
+Last Updated: Thursday, February 19th, 2026, 3:11:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
