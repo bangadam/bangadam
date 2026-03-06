@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-2. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
-3. ⭐ Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)<br>
-4. ⭐ Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
-5. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+2. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
+3. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
+4. ⭐ Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)<br>
+5. ⭐ Starred [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 6th, 2026, 1:49:33 PM
+Last Updated: Friday, March 6th, 2026, 2:31:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
