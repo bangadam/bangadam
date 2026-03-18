@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
-2. ⭐ Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)<br>
-3. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
-4. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-5. ⭐ Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)<br>
+1. ⭐ Starred [superset-sh/superset](https://github.com/superset-sh/superset)<br>
+2. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+3. ⭐ Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)<br>
+4. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)<br>
+5. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 18th, 2026, 7:47:45 AM
+Last Updated: Wednesday, March 18th, 2026, 8:39:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
