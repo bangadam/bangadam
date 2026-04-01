@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
-2. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-3. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
-4. ⭐ Starred [superset-sh/superset](https://github.com/superset-sh/superset)<br>
-5. ⭐ Starred [oraios/serena](https://github.com/oraios/serena)<br>
+1. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
+2. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+3. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
+4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
+5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 31st, 2026, 11:37:04 PM
+Last Updated: Wednesday, April 1st, 2026, 1:57:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
