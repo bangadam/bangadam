@@ -94,13 +94,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
-2. ⭐ Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)<br>
+2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 3. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
 4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 1st, 2026, 11:54:55 PM
+Last Updated: Thursday, April 2nd, 2026, 1:45:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
