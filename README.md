@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
-2. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-3. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
-4. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
-5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)<br>
+1. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+2. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
+3. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
+4. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
+5. ⭐ Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 2nd, 2026, 12:56:31 PM
+Last Updated: Thursday, April 2nd, 2026, 2:19:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
