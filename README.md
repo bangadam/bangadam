@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [bangadam/korlap](https://github.com/bangadam/korlap) from [ariaghora/korlap](https://github.com/ariaghora/korlap)<br>
-2. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
-3. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
-4. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
-5. ⭐ Starred [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
+1. ⭐ Starred [morapelker/hive](https://github.com/morapelker/hive)<br>
+2. 🔱 Forked [bangadam/korlap](https://github.com/bangadam/korlap) from [ariaghora/korlap](https://github.com/ariaghora/korlap)<br>
+3. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+4. ⭐ Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)<br>
+5. ⭐ Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 3rd, 2026, 2:32:33 AM
+Last Updated: Friday, April 3rd, 2026, 4:59:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
