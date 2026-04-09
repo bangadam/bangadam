@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-2. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
-3. ⭐ Starred [morapelker/hive](https://github.com/morapelker/hive)<br>
-4. 🔱 Forked [bangadam/korlap](https://github.com/bangadam/korlap) from [ariaghora/korlap](https://github.com/ariaghora/korlap)<br>
-5. ⭐ Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)<br>
+1. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+2. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
+3. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+4. ⭐ Starred [morapelker/hive](https://github.com/morapelker/hive)<br>
+5. 🔱 Forked [bangadam/korlap](https://github.com/bangadam/korlap) from [ariaghora/korlap](https://github.com/ariaghora/korlap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 9th, 2026, 1:43:02 AM
+Last Updated: Thursday, April 9th, 2026, 4:28:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
