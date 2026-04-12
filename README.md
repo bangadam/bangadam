@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-3. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
-4. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
-5. ⭐ Starred [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)<br>
+1. ⭐ Starred [cuevaio/local-background-remover](https://github.com/cuevaio/local-background-remover)<br>
+2. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+4. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+5. ⭐ Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 12th, 2026, 12:58:23 PM
+Last Updated: Sunday, April 12th, 2026, 1:59:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
