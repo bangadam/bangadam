@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)<br>
-2. ⭐ Starred [cuevaio/local-background-remover](https://github.com/cuevaio/local-background-remover)<br>
-3. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
-4. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-5. ⭐ Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)<br>
+1. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
+2. ⭐ Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)<br>
+3. ⭐ Starred [cuevaio/local-background-remover](https://github.com/cuevaio/local-background-remover)<br>
+4. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)<br>
+5. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 15th, 2026, 7:22:47 AM
+Last Updated: Wednesday, April 15th, 2026, 8:58:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
