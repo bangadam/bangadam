@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
-2. ⭐ Starred [hirazawa-yui99/Bot-Auto-Screening-Bybit](https://github.com/hirazawa-yui99/Bot-Auto-Screening-Bybit)<br>
-3. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
-4. ⭐ Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)<br>
-5. ⭐ Starred [cuevaio/local-background-remover](https://github.com/cuevaio/local-background-remover)<br>
+1. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+2. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
+3. ⭐ Starred [hirazawa-yui99/Bot-Auto-Screening-Bybit](https://github.com/hirazawa-yui99/Bot-Auto-Screening-Bybit)<br>
+4. ⭐ Starred [multica-ai/multica](https://github.com/multica-ai/multica)<br>
+5. ⭐ Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 24th, 2026, 11:53:17 AM
+Last Updated: Friday, April 24th, 2026, 1:06:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
