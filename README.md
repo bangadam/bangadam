@@ -93,9 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [muxy-app/muxy](https://github.com/muxy-app/muxy)<br>
+2. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
+3. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+4. ⭐ Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)<br>
+5. ⭐ Starred [hirazawa-yui99/Bot-Auto-Screening-Bybit](https://github.com/hirazawa-yui99/Bot-Auto-Screening-Bybit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 30th, 2026, 2:23:36 AM
+Last Updated: Thursday, April 30th, 2026, 5:42:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
