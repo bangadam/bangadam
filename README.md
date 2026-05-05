@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer)<br>
-2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-3. ⭐ Starred [muxy-app/muxy](https://github.com/muxy-app/muxy)<br>
-4. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
-5. ⭐ Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)<br>
+1. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+2. ⭐ Starred [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer)<br>
+3. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+4. ⭐ Starred [muxy-app/muxy](https://github.com/muxy-app/muxy)<br>
+5. ⭐ Starred [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 12:05:17 PM
+Last Updated: Tuesday, May 5th, 2026, 2:34:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
