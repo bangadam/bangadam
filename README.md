@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)<br>
-2. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
-3. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
-4. ⭐ Starred [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer)<br>
-5. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+1. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)<br>
+2. ⭐ Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)<br>
+3. ⭐ Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)<br>
+4. ⭐ Starred [stablyai/orca](https://github.com/stablyai/orca)<br>
+5. ⭐ Starred [andyvandaric/opencode-suites-installer](https://github.com/andyvandaric/opencode-suites-installer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 9th, 2026, 2:32:18 PM
+Last Updated: Saturday, May 9th, 2026, 3:42:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
