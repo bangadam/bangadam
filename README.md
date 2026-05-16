@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Runfusion/Fusion](https://github.com/Runfusion/Fusion)<br>
-2. ⭐ Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)<br>
-3. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
-4. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)<br>
-5. ⭐ Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)<br>
+1. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
+2. ⭐ Starred [Runfusion/Fusion](https://github.com/Runfusion/Fusion)<br>
+3. ⭐ Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)<br>
+4. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)<br>
+5. ⭐ Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 16th, 2026, 10:38:00 PM
+Last Updated: Saturday, May 16th, 2026, 11:43:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
