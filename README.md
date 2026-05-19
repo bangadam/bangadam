@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anvie/evonic](https://github.com/anvie/evonic)<br>
-2. ⭐ Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)<br>
-3. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
-4. ⭐ Starred [looplj/axonhub](https://github.com/looplj/axonhub)<br>
-5. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
+1. ⭐ Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)<br>
+2. ⭐ Starred [anvie/evonic](https://github.com/anvie/evonic)<br>
+3. ⭐ Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)<br>
+4. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
+5. ⭐ Starred [looplj/axonhub](https://github.com/looplj/axonhub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 19th, 2026, 7:39:23 AM
+Last Updated: Tuesday, May 19th, 2026, 10:56:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
