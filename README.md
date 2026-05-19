@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
-2. ⭐ Starred [looplj/axonhub](https://github.com/looplj/axonhub)<br>
-3. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
-4. ⭐ Starred [Runfusion/Fusion](https://github.com/Runfusion/Fusion)<br>
-5. ⭐ Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)<br>
+1. ⭐ Starred [anvie/evonic](https://github.com/anvie/evonic)<br>
+2. ⭐ Starred [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)<br>
+3. ⭐ Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)<br>
+4. ⭐ Starred [looplj/axonhub](https://github.com/looplj/axonhub)<br>
+5. ⭐ Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 11:58:48 PM
+Last Updated: Tuesday, May 19th, 2026, 3:53:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
