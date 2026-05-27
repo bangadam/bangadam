@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xSero/codex-shim](https://github.com/0xSero/codex-shim)<br>
-2. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
-3. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)<br>
-4. ⭐ Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)<br>
-5. ⭐ Starred [anvie/evonic](https://github.com/anvie/evonic)<br>
+1. ⭐ Starred [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)<br>
+2. ⭐ Starred [0xSero/codex-shim](https://github.com/0xSero/codex-shim)<br>
+3. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
+4. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)<br>
+5. ⭐ Starred [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 26th, 2026, 11:03:29 PM
+Last Updated: Wednesday, May 27th, 2026, 1:31:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
