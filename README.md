@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)<br>
-2. ⭐ Starred [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)<br>
-3. ⭐ Starred [0xSero/codex-shim](https://github.com/0xSero/codex-shim)<br>
-4. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
-5. ⭐ Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)<br>
+1. ⭐ Starred [OnlyTerp/UltraCode-Shim](https://github.com/OnlyTerp/UltraCode-Shim)<br>
+2. ⭐ Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)<br>
+3. ⭐ Starred [rampstackco/claude-skills](https://github.com/rampstackco/claude-skills)<br>
+4. ⭐ Starred [0xSero/codex-shim](https://github.com/0xSero/codex-shim)<br>
+5. ⭐ Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 2nd, 2026, 12:13:24 AM
+Last Updated: Tuesday, June 2nd, 2026, 5:07:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
