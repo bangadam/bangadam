@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
-2. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
-3. 🔱 Forked [bangadam/meridian](https://github.com/bangadam/meridian) from [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
-4. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
-5. ⭐ Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)<br>
+1. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
+2. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
+3. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
+4. 🔱 Forked [bangadam/meridian](https://github.com/bangadam/meridian) from [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
+5. ⭐ Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 24th, 2026, 6:39:11 AM
+Last Updated: Wednesday, June 24th, 2026, 10:15:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
