@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
-2. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
-3. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
-4. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
-5. 🔱 Forked [bangadam/meridian](https://github.com/bangadam/meridian) from [yunus-0x/meridian](https://github.com/yunus-0x/meridian)<br>
+1. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
+2. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
+3. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
+4. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
+5. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 27th, 2026, 3:32:41 AM
+Last Updated: Saturday, June 27th, 2026, 6:47:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
