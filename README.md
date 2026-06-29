@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
-2. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
-3. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
-4. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
-5. ⭐ Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)<br>
+1. ⭐ Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)<br>
+2. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
+3. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
+4. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
+5. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 29th, 2026, 5:08:39 AM
+Last Updated: Monday, June 29th, 2026, 10:04:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
