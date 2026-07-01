@@ -93,14 +93,14 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <h2 align="left">Recent Activity</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)<br>
-2. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
-3. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
-4. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
-5. ⭐ Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)<br>
+1. ⭐ Starred [FlipZ3ro/meridian-rs](https://github.com/FlipZ3ro/meridian-rs)<br>
+2. ⭐ Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)<br>
+3. ⭐ Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)<br>
+4. ⭐ Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)<br>
+5. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 1st, 2026, 1:36:57 AM
+Last Updated: Wednesday, July 1st, 2026, 6:18:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
    </details>
