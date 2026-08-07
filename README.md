@@ -90,17 +90,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bangadam-dev/2" alt="Recent Article 2"></a>
   <br>
 
-<h2 align="left">Recent Activity</h2>
-
-<!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)<br>
-2. ⭐ Starred [bangadam/OpenDesktopPets](https://github.com/bangadam/OpenDesktopPets)<br>
-3. ⭐ Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)<br>
-4. ✌️ Released [OpenDesktopPets v0.1.1 — Unsigned Preview](https://github.com/bangadam/OpenDesktopPets/releases/tag/v0.1.1) in [bangadam/OpenDesktopPets](https://github.com/bangadam/OpenDesktopPets)<br>
-5. ⬆️ Pushed undefined commit(s) to [bangadam/OpenDesktopPets](https://github.com/bangadam/OpenDesktopPets)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 7th, 2026, 12:36:10 AM
-<!--RECENT_ACTIVITY:last_update_end-->
    </details>
